@@ -1,0 +1,3 @@
+
+include ':app', ':transformationlayout'
+rootProject.name='TransformationLayoutDemo'
